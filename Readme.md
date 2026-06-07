@@ -12,7 +12,7 @@ This project is an interactive Power BI dashboard designed to analyze the sales 
 - **Dynamic Chart Titles:** Configured conditional formatting so that chart titles automatically update to reflect the currently selected metric.
 - **Advanced Visualizations:** - **Decomposition Tree:** Built an interactive tree to break down Net Profit/Sales by Customer Country, Product Line, and Customer Name for drill-down analysis.
   - **Scatter Plot Anomaly Detection:** Compares Cost of Sale vs. Metric(Sales or Net Profit) by Order Number, helping to quickly identify low-margin or problematic orders.
-- **Time Intelligence:** Utilized Power BI Quick Measures to calculate and track **Month-over-Month (MoM) % Change** and **Year-to-Date (YTD) Sales**.
+- **Time Intelligence:** Utilized Power BI Quick Measures to calculate and track **Month-over-Month (MoM) % Change**.
 
 
 ## Data Loading and Description
